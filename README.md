@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="assets/AJAX.png" alt="Ajax--FeaturesLogo">
+<img src="assets/ALEXA.png" alt="alexaLogo">
 </p>
 <h1 align="center">
   <b>Ꭺ - L - E - X - A</b>
