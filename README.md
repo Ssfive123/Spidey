@@ -3,7 +3,7 @@
 <img src="assets/ALEXA.png" alt="alexaLogo">
 </p>
 <h1 align="center">
-  <b>Ꭺ - L - E - X - A</b>
+  <b>ᴀ - ʟ - ᴇ - x - ᴀ</b>
 </h1>
 
 
