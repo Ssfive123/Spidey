@@ -1361,9 +1361,8 @@ async def auto_filter(client, msg, spoll=False):
     TEMPLATE = settings['template']
     if imdb:
         cap = TEMPLATE.format(
-            group = message.chat.title,
-            requested = message.from_user.mention,
             query = search,
+            group = message.chat.title,
             title = imdb['title'],
             votes = imdb['votes'],
             aka = imdb["aka"],
