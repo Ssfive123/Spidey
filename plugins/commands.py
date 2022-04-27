@@ -41,7 +41,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+V3GKQDsza2k5OWY1'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+06cmE82qT2Y4YmI1'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/mh_world')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
@@ -82,7 +82,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+V3GKQDsza2k5OWY1'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+06cmE82qT2Y4YmI1'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/mh_world')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
