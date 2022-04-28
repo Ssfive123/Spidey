@@ -53,7 +53,7 @@ You can deploy this bot anywhere.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Alexa-Auto-Filter">
+<a href="https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Alexa-Extra-Features">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
