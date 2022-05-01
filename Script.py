@@ -5,8 +5,7 @@ class script(object):
 
 <b>Made With ❤ BY <a href='https://t.me/Coby_Support'>MH Botz</a></b>"""
     HELP_TXT = """b>Hᴇʟʟᴏ {}
-    
-        Welcome to Help Area 🎁</b>"""
+Welcome to Help Area 🎁</b>"""
     ABOUT_TXT = """<b>
 🤖 𝖡ᴏᴛ ɴᴀᴍᴇ : <a href='http://t.me/rexie_autofilterbot'>Rᴇxɪᴇ</a>
 
