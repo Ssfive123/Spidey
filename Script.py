@@ -33,11 +33,11 @@ class script(object):
 ➪ /pbatch ›› <b>Use Your Media Link With This Command.</b>
 ➪ /batch ›› <b>To Create A Link For Multiple Media</b>
 
-⪼ Example ›
+<b><i>⪼ Example ›</i></b>
 
 <code>/batch https://t.me/c/1541932075/4957 https://t.me/c/1541932075/4958</code>
 
-Credits ›› <a href=https://t.me/moviehubgroupp><b>MH-UPDATES</b></a>"""
+<b>Credits</b> ›› <a href=https://t.me/moviehubgroupp><b>MH-UPDATES</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
