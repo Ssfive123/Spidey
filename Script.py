@@ -74,17 +74,17 @@ Note:- Give a user details
 
 <b>📝 Credits :- <a href=https://t.me/MovieHubOtt>MH-Updates</a></b>"""
     PIN_TXT ="""<b>PIN MODULE</b>
-<b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
+<b>Pin A Message../</b>
 
-<b>𝙰𝙻𝙻 𝚃𝙷𝙴 𝙿𝙸𝙽 𝚁𝙴𝙻𝙰𝚃𝙴𝙳 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙲𝙰𝙽 𝙱𝙴 𝙵𝙾𝚄𝙽𝙳 𝙷𝙴𝚁𝙴::</b>
+<b>All The Pin Related Commands Can Be Found Here::</b>
 
-<b>📌𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙰𝙽𝙳 𝚄𝚂𝙰𝙶𝙴📌</b>
+<b>📌 Commands And Usage 📌</b>
 
-◉ /pin :- 𝚃𝙾 𝙿𝙸𝙽 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙾𝙽 𝚈𝙾𝚄𝚁 𝙲𝙷𝙰𝚃𝚂
-◉ /unpin :- 𝚃𝙾 𝚄𝙽𝙿𝙸𝙽 𝚃𝙷𝙴 𝙲𝚄𝚁𝚁𝙴𝙴𝙽𝚃 𝙿𝙸𝙽𝙽𝙴𝙳 𝙼𝙴𝚂𝙰𝙰𝙶𝙴"""
+◉ /pin :- To Pin The Message On Your Chat
+◉ /unpin :- To Unpin Current Pinned Message"""
     PASTE_TXT = """Help: <b>Paste</b>
 
-Paste some texts or documents on a website!
+<i>Paste some texts or documents on a website!</i>
 
 <b>Commands and Usage:</b>
 
@@ -92,11 +92,11 @@ Paste some texts or documents on a website!
 
 <b>NOTE:</b>
 
-• These commands works on both pm and group.
-• These commands can be used by any group member."""
+<i>• These commands works on both pm and group.
+• These commands can be used by any group member.</i>"""
     TTS_TXT = """Help: <b> TTS 🎤 module:</b>
 
-Translate text to speech
+<i>Translate text to speech</i>
 
 <b>Commands and Usage:</b>
 
@@ -109,7 +109,7 @@ Translate text to speech
 • IMDb can translate texts to 200+ languages."""
     PINGS_TXT ="""<b>🌟 Ping:</b>
 
-Helps you to know your ping 🚶🏼‍♂️
+<i>Helps you to know your ping 🚶🏼‍♂️</i>
 
 <b>Commands:</b>
 
@@ -118,7 +118,8 @@ Helps you to know your ping 🚶🏼‍♂️
 • /ping - To get your ping.
 • /repo - Source Code.
 • /channel - Channel Details.
-• /ajax - Bot Link.
+• /spidey - Bot Link.
+
 <b>🏹Usage🏹 :</b>
 
 • This commands can be used in pms and groups
@@ -126,11 +127,11 @@ Helps you to know your ping 🚶🏼‍♂️
 • Share us for more features"""
     TELE_TXT = """<b>▫️HELP: Telegraph▪️</b>
 
-Do as you wish with telegra.ph module!
+<i>Do as you wish with telegra.ph module!</i>
 
 </b>USAGE:</b>
 
-🤧 /telegraph - Send me Picture or Vide Under (5MB)
+/telegraph - Send me Picture or Vide Under (5MB)
 
 <b>NOTE:</b>
 
@@ -159,15 +160,15 @@ Delete A Lot Of Messages From Groups!
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
--ALEXA  Supports both url and alert inline buttons.
+-SPIDEY Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ALEXA supports buttons with any telegram media type.
+2. SPIDEY supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/mh_world)</code>
+<code>[Button Text](buttonurl:https://t.me/MovieHubOtt)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
